@@ -1,5 +1,11 @@
 # Top Projects
 
+### [TypingSpeedTest-ReactJS](https://kgdavidson.github.io/TypingSpeedTest-ReactJS/)
+
+Typing speed test app made using ReactJS with all custom components. Text is chosen at random from `paragraphs.json`
+
+![UI](https://i.postimg.cc/cLbtSWQV/GIF-30-04-2022-11-02-26.gif)
+
 ### [Ciphers-ReactJS](https://kgdavidson.github.io/Ciphers-ReactJS)
 
 Vigenere-Vernam cipher visualisations made using ReactJS and SemanticUI. Table and mathematical visualisations included.
