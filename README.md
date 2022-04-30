@@ -1,12 +1,12 @@
 # Top Projects
 
-### [TypingSpeedTest-ReactJS](https://kgdavidson.github.io/TypingSpeedTest-ReactJS/)
+### [TypingSpeedTest-ReactJS](https://github.com/KGDavidson/TypingSpeedTest-ReactJS)
 
-Typing speed test app made using ReactJS with all custom components. Text is chosen at random from `paragraphs.json`
+Typing speed test app made using ReactJS with all custom components. Text is chosen at random from a `paragraphs.json` file
 
 ![UI](https://i.postimg.cc/cLbtSWQV/GIF-30-04-2022-11-02-26.gif)
 
-### [Ciphers-ReactJS](https://kgdavidson.github.io/Ciphers-ReactJS)
+### [Ciphers-ReactJS](https://github.com/KGDavidson/Ciphers-ReactJS)
 
 Vigenere-Vernam cipher visualisations made using ReactJS and SemanticUI. Table and mathematical visualisations included.
 
@@ -14,7 +14,7 @@ Vigenere-Vernam cipher visualisations made using ReactJS and SemanticUI. Table a
 
 ---
 
-### [BoostedBoards Site Recreation](https://kgdavidson.github.io/BoostedBoardsSiteRecreation-Web)
+### [BoostedBoards Site Recreation](https://github.com/KGDavidson/BoostedBoardsSiteRecreation-Web)
 
 A recreation of the Boosted Board website homepage made using pure HTML, CSS and JS. Created as an exercise in building UI to specification.
 
@@ -22,7 +22,7 @@ A recreation of the Boosted Board website homepage made using pure HTML, CSS and
 
 ---
 
-### [BoidSimulator-ReactJS](https://kgdavidson.github.io/BoidSimulator-ReactJS)
+### [BoidSimulator-ReactJS](https://github.com/KGDavidson/BoidSimulator-ReactJS)
 
 A boid simulator written in ReactJS using the canvas element. A boid is highlighted for ease of tracking.
 
