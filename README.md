@@ -1,18 +1,18 @@
 # Top Projects
 
-### [TypingSpeedTest-ReactJS](https://github.com/KGDavidson/TypingSpeedTest-ReactJS)
-
-Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file
-
-## ![UI](https://i.postimg.cc/cLbtSWQV/GIF-30-04-2022-11-02-26.gif)
-
----
-
 ### [OnTheGo-JS](https://github.com/KGDavidson/OnTheGo-JS)
 
 A web app for viewing TFL departure times made using JavaScript and powered by the TFL API, CartoCDN and Leaflet
 
 ![UI](https://i.postimg.cc/76NGRDRF/GIF-30-04-2022-17-02-50.gif)
+
+---
+
+### [TypingSpeedTest-ReactJS](https://github.com/KGDavidson/TypingSpeedTest-ReactJS)
+
+Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file
+
+## ![UI](https://i.postimg.cc/cLbtSWQV/GIF-30-04-2022-11-02-26.gif)
 
 ---
 
