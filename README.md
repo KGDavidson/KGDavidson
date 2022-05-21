@@ -16,6 +16,14 @@ Typing speed test app made using ReactJS that uses localStorage to store highsco
 
 ---
 
+### [Gifster-ReactJS](https://github.com/KGDavidson/Gifster-ReactJS)
+
+A responsive GIPHY clone landing page built with ReactJS, SCSS and the GIPHY API
+
+## ![UI](https://i.postimg.cc/PxYkkxr3/GIF-21-05-2022-03-15-23.gif)
+
+---
+
 ### [Ciphers-ReactJS](https://github.com/KGDavidson/Ciphers-ReactJS)
 
 Vigenere-Vernam cipher visualisations made using ReactJS and SemanticUI. Table and mathematical visualisations included.
