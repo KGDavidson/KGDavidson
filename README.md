@@ -8,6 +8,14 @@ A web app for viewing TFL departure times made using JavaScript and powered by t
 
 ---
 
+### [YetAnotherNetflixClone-ReactJS](https://github.com/KGDavidson/YetAnotherNetflixClone-ReactJS)
+
+Yet another Netflix clone with a mobile friendly design made using ReactJS and The Movie DB
+
+## ![UI](https://i.postimg.cc/RVD5z51H/GIF-22-05-2022-04-57-53.gif)
+
+---
+
 ### [TypingSpeedTest-ReactJS](https://github.com/KGDavidson/TypingSpeedTest-ReactJS)
 
 Typing speed test app made using ReactJS that uses localStorage to store highscores. Text is chosen at random from a `paragraphs.json` file
