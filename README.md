@@ -1,6 +1,6 @@
 # Top Projects
 
-### [ShortVC]](https://github.com/KGDavidson/ShortVC-NextJS)
+### [ShortVC](https://github.com/KGDavidson/ShortVC-NextJS)
 
 A mobile-responsive url shortening management service with OAuth, built with NextJS and the T3 stack
 
