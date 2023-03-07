@@ -1,5 +1,13 @@
 # Top Projects
 
+### [tro.hs.vc](https://github.com/KGDavidson/ShortVC-NextJS)
+
+A mobile-responsive url shortening management service with OAuth, built with NextJS and the T3 stack
+
+![UI](https://i.postimg.cc/tCbShBKN/ezgif-com-optimize-1-1.gif)
+
+---
+
 ### [Recipisio](https://github.com/KGDavidson/Recipisio-ReactJS)
 
 A mobile-responsive search-by-ingredient recipe application powered by the Spoonacular API
@@ -37,27 +45,3 @@ Typing speed test app made using ReactJS that uses localStorage to store highsco
 A responsive GIPHY clone landing page built with ReactJS, SCSS and the GIPHY API
 
 ## ![UI](https://i.postimg.cc/PxYkkxr3/GIF-21-05-2022-03-15-23.gif)
-
----
-
-### [Ciphers-ReactJS](https://github.com/KGDavidson/Ciphers-ReactJS)
-
-Vigenere-Vernam cipher visualisations made using ReactJS and SemanticUI. Table and mathematical visualisations included.
-
-![UI](https://iili.io/VvICS2.gif)
-
----
-
-### [BoostedBoards Site Recreation](https://github.com/KGDavidson/BoostedBoardsSiteRecreation-Web)
-
-A recreation of the Boosted Board website homepage made using pure HTML, CSS and JS. Created as an exercise in building UI to specification.
-
-![UI](https://i.postimg.cc/26MKmZqk/ezgif-4-53eed4798a.gif)
-
----
-
-### [BoidSimulator-ReactJS](https://github.com/KGDavidson/BoidSimulator-ReactJS)
-
-A boid simulator written in ReactJS using the canvas element. A boid is highlighted for ease of tracking.
-
-![UI](https://i.postimg.cc/JzBKSfV2/GIF-27-04-2022-03-43-53.gif)
